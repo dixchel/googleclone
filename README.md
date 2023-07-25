@@ -1,25 +1,25 @@
 # Google interface clone 
-#### 💗 Google clone elaborated on TecnoChicasPRO summer bootcamp ✨
+#### 💗 Google clone elaborated on TecnoloChicasPRO summer bootcamp ✨
 
 ## Index
 * [Intro](#)
-* [What did i build](#)
+* [What i did](#)
 * [Project goal](#) 
 
 ****
 
 ## 1. Intro
-HTML5 trabaja de la mano con CSS3 para crear páginas web que usamos todos los días en el navegador. Incluso, este sitio web en donde estás viendo este contenido está construido con HTML y CSS. En este proyecto, con los conocimientos de HTML y CSS realicé la clonación de la interfaz de Google.
+HTML5 works hand in hand with CSS3 to create web pages that we use everyday on our browses. Even this website when we are watching this content is built with HTML and CSS. In this project, with the base knowledge of HTML and CSS, i cloned the google interface.
 
-## 2. Qué construí
-En este proyecto me enfoqué en construir la clonación de la interfaz de Google.
-Contiene las siguientes secciones:
+## 2. What i did
+In this project i cloned the google interface.
+It contains the following sections:
 
-* Header: Sección que involucra la foto de mi perfil, iconos y el menú con hipervínculos.
+* Header: Section with profile photo, icons, and hiperlinked menu.
 
-* Main: Sección del contenedor para los elementos centrales de la página: logo, barra de búsqueda, iconos y botones.
+* Main: Section with central page elements container: logo, search bar, icons and buttons.
 
-* Footer: Sección que incluye hipervínculos al final de la página.
+* Footer: Section with hiperlinks at the bottom of the page.
 
-## 3. Objetivo del Proyecto
-Aprender a utilizar las etiquetas estándar de HTML5 y CSS3.
+## 3. Project goal
+Learn to use the standar HTML5 and CSS3 tags.
